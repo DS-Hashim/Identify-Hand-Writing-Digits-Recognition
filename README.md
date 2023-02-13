@@ -22,3 +22,6 @@ python predict.py <path_to_image>
 This will load the weights from the file and make a prediction on the image located at path_to_image. The prediction will be printed to the console.
 ##Conclusion
 This project demonstrates the use of deep learning to recognize handwritten digits. The model achieved high accuracy on the MNIST test set, demonstrating the effectiveness of deep learning in image recognition tasks. With further fine-tuning and more training data, this model could be used in real-world applications, such as recognizing handwritten digits on checks or forms.
+
+
+#thanks
